@@ -13,13 +13,13 @@
           "achyut\\codes\\": "src"
         }
     },
+    "require": {
+        "achyut/codes": "dev-master"
+    },
     "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/gitachyut/codes"
-    }
-    ],
-
-    "minimum-stability": "stable",
-    "require": {}
+        {
+            "type": "vcs",
+            "url": "https://github.com/gitachyut/codes"
+        }
+    ]
 }
