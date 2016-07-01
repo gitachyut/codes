@@ -1,7 +1,5 @@
 <?php
-namespace achyut\codes\load;
-use achyut\codes\Code;
-
+namespace achyut\codes;
 /**
  *
  */
