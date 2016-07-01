@@ -14,5 +14,5 @@
         }
     },
 
-    "require": { "achyut/codes" : "1.0.*" }
+    "require": {}
 }
