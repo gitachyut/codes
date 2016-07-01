@@ -1,0 +1,17 @@
+{
+    "name": "achyut/codes",
+    "description": "nothing much",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gitachyut",
+            "email": "linkinakd72@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+          "achyut\\codes\\": "src"
+        }
+    },
+    "require": {}
+}
