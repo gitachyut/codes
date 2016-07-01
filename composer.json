@@ -12,15 +12,5 @@
         "psr-4":{
           "achyut\\codes\\": "src"
         }
-    },
-    "require": {
-        "php": "^5.3.3 || ^7.0",
-        "achyut/codes": "dev-master"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/gitachyut/codes"
-        }
-    ]
+    }
 }
